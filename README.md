@@ -61,5 +61,6 @@ Feel free to fork this repository, submit issues, or create pull requests to imp
 2. YFinance for financial data.
 3. DuckDuckGo for search capabilities.
 4. OpenAI for advanced natural language processing.
+![screencapture-phidata-app-playground-chat-2024-12-28-19_27_53](https://github.com/user-attachments/assets/1bf6d383-6fc1-4782-a389-bb268dfe2e00)
 
 
