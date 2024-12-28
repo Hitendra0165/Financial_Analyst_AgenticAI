@@ -43,23 +43,23 @@ python playground.py
 
 ## Key Dependencies
 
-phidata
-python-dotenv
-yfinance
-duckduckgo-search
-fastapi
-uvicorn
-groq
-openai
+1. phidata
+2. python-dotenv
+3. yfinance
+4. duckduckgo-search
+5. fastapi
+6. uvicorn
+7. groq
+8. openai
 
 Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the project. Contributions are always welcome!
 
 ## Acknowledgments
 
-Groq for providing cutting-edge AI models.
-YFinance for financial data.
-DuckDuckGo for search capabilities.
-OpenAI for advanced natural language processing.
+1. Groq for providing cutting-edge AI models.
+2. YFinance for financial data.
+3. DuckDuckGo for search capabilities.
+4. OpenAI for advanced natural language processing.
 
 
