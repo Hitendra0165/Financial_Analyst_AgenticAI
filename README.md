@@ -41,7 +41,7 @@ The Playground.py script launches a web-based interface for interacting with the
 Run the playground:
 python playground.py
 
-##Key Dependencies
+## Key Dependencies
 
 phidata
 python-dotenv
@@ -55,7 +55,7 @@ openai
 Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the project. Contributions are always welcome!
 
-##Acknowledgments
+## Acknowledgments
 
 Groq for providing cutting-edge AI models.
 YFinance for financial data.
